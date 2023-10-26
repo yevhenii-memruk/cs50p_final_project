@@ -26,7 +26,11 @@ Application tracking data will be stored in `JSON` format.
 ## Getting Started
 
 ### Installation
-> Will be available after uploading to GitHub
+The `git clone` command is used to create a copy of a Git repository on your local machine.
+>To use the git clone command, you'll need to have Git installed on your computer.
+```
+git clone https://github.com/yevhenii-memruk/cs50p_final_project.git
+```
 
 ## Usage
 ### Windows
